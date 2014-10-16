@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aju:home|Door43 (aju)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aju|d43-aju repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aju/archive/master.zip|d43-aju.zip]]
+
+**Recent Changes**
+{{changes>ns = aju}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aju|Ethnologue data]]
+
